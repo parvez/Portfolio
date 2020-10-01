@@ -1,0 +1,156 @@
+Parvez Husain Creative Web Designer ∙ Developer ∙ Agilista
+http://www.parfait.dev ∙ parvezht@gmail.com ∙ (510) 585-9127
+
+Summary
+=======
+• Strongly believe in Agile principals including continuous integration, refactoring, simplicity and being flexible.
+• Expertise in Ruby on Rails, PHP, XHTML, CSS, JavaScript.
+• Fierce advocate of CSS for site layout i.e. separation of content & style.
+• Extensive experience in Usability, Online Branding and UI design.
+• Create & Quality Web Design & Graphics using arsenal of Adobe Suite.
+• Instrumental with creating a web site from a mockup aka Photoshop.
+• Conceptualize freely & help develop exciting, consistent new ideas.
+• Content Globalization with knowledge of designing bilingual websites.
+• Flexible, Energetic, fast learner, great team player.
+• Capable of carrying projects from concept to resolution.
+
+
+Work Experience
+===============
+MicroPlace Inc. A PayPal Company
+Web Designer & Developer  Oct 2007 – Present
+---------------------------------------------
+Summary: Working as Web UI Designer and Ruby on Rails Developer. An agilista at an XP Development environment.
+
+• Develop website in RoR as part of team that drives on XP and Agile.
+• Ensure bug free website
+• Publishing new functionalities every 2 weeks.
+• Follow the Test Driven Development approach.
+• Complete XHTMLizing from mockup aka Photoshop.
+• [Glossary: MeTime – 10% time off to develop personal ideas]
+• MeTime: Created template for Official Blog and google gadget.
+• MeTime: Created interactive community portal for registered users.
+
+
+Global IT Inc.    
+Web Designer & Developer  Jan 2007 – Oct 2007
+---------------------------------------------
+Summary: Working as Web Designer and Developer. Was part of the team for the development and implementation of eGRM portal project.
+
+Enterprise Global Resource Management:
+• The project was a resource management portal to be used by the company teams in US and India to efficiently manage the professional services process.
+• Performed bug tracking and fixed solutions to most common User Interface layout problems and browser compatibility issues.
+• Helping in creating mockups & templates for forthcoming pages and functionalities.
+• Design and development testing with quality approach.
+
+
+Golden Systems Electronics LLC    
+Web Designer & Developer / Graphics Designer  May 2003 – Dec 2006
+---------------------------------------------
+Summary: Joined as Web Developer and Graphic Designer.  Very quickly moved on to manage Branding, Web Development and Web content management. 
+
+Web Designer & Developer:
+• Construction, maintenance, daily administration and support of company and partner Web sites, Intranet and Email
+• Complete restructuring of Websites into a Dynamic Website in PHP
+• Domain names and packages registrations
+• Points based Partner Program Website and CRM website completely made in XHTML & CSS with PHP/MySQL
+• Localization of the Vendor and partner Web sites (Persian) 
+• Develop in-house softwares for RMA, Logistic & Product divisions
+• Integrating softwares with Oracle DB based CRM software
+
+Graphic Designer:
+• Design and produce art and copy layouts for material to be presented by visual communications media such as brochures, etc.
+• Create graphical designs for user interface on related web sites
+• Conceptualize and design promotional materials such as office signage, exhibits, displays and gift items
+
+
+SONRANET  
+Web Designer  Jan 1998 - Jun 2000
+---------------------------------------------
+• Designing of Websites and portals
+• Use of ASP, DHTML, HTML, JavaScript, VBscript in creating the Webpages
+• Use of Adobe Photoshop, Dreamweaver to create and design fantastic web portals
+• Involved as a team in creation of the NRI section of the businessindiaweb.com portal
+
+
+Mahavir Computer Consultancy Services 
+Hardware & Networking Engineer  Jul 1997 - Dec 1997
+---------------------------------------------
+• Installation and troubleshooting of standalone and networked systems
+• Setting up of LAN on Novell Network
+• Knowledge of NT and UNIX systems
+• Maintenance of machines and troubleshooting of software Expertise
+
+
+
+Expertise
+=========
+• 8 years of developer experience
+• Ruby on Rails (3 years)
+• PHP
+• XTMLize
+• CSS
+• Agile Methodology
+• Extreme Programming
+• Test Driven Development
+• Scrum
+• Object Oriented Programming
+• Creative Designing
+• Usability
+• JavaScript
+• jQuery
+• Script.aculo.us, PrototypeJS
+• AJAX
+• MySQL
+
+
+
+Gallery of Work
+===============
+• www.microplace.com: 2007-2010  MicroPlace Inc.
+• microplace.blogspot.com: 2010 MicroPlace blog
+• www.microplace.com/vision: 2008 MicroPlace Vision
+• www.docause.com: 2010 Cause related networking 
+• www.axtrom.com: 2006 IT vendor  website
+• www.goldensystems.ae: 2004-2006 IT Distributing Firm
+• www.gigabyte.ir: 2006 IT Vendor localized website
+• Global IT  Logo: 2007 Designing
+• Real Estate Software: 2006  Multi-user Application 
+• Berkshire Int Logo & Profile: 2005 Designing
+• www.adlibadli.com: 2002 Barter Website (dead)
+
+more @ www.parfait.dev
+
+
+
+Education
+=========
+2001 - Bachelors Degree in Commerce Mumbai, India
+K.C. College, University of Mumbai
+
+1998  - Diploma in Electronics, Computer and Telecom Eng  Mumbai, India
+CMS Institute
+
+2003 - Microsoft Certified Professional Mumbai, India
+Designing and Implementing Desktop Applications with MS Visual Basic 6.0
+
+1999 - Diploma in Computer Science
+Indo German Educational Fund
+
+
+
+Tools
+=====
+TextMate
+FireBug
+SVN
+GIT
+Adobe Creative Suite
+VMWare
+Selenium IDE
+Shell Terminal
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thanks! References available on request.

@@ -1,0 +1,150 @@
+body {
+  background: #2a3539 url('../images/main_bg.png') repeat scroll 0 0;
+  padding: 0;
+  margin: 0;
+  font-family: Georgia, Arial, "MS Trebuchet", sans-serif;
+  color: #555;
+  font-size: 75%;
+}
+body * {
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: #07e;
+}
+a img {
+  border: none;
+}
+div.clear {
+  clear: both;
+}
+hr {
+  border-top: 1px solid #DDD;
+}
+.placeholder {
+  color: #CCC !important;
+}
+.noscript,
+.loading {
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+  position: fixed;
+  z-index: 9999;
+  background-color: white;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.noscript p,
+.loading p {
+  position: absolute;
+  top: 30%;
+  left: 15%;
+  width: 60%;
+  text-align: center;
+}
+div#ajax_loader{
+  position: fixed;
+  text-align: center;
+  top: 250px;
+  width: 100%;
+  z-index: 9999;
+}
+
+div#download_resume {
+  line-height: 30px;
+  text-align: center;
+  color: #AAA;
+  padding-top: 50px;
+}
+
+div#page {
+  width: 920px;
+  padding: 0 20px;
+  position: relative;
+  margin: 0 auto;
+}
+img#head_title {
+  position: fixed;
+  z-index: 9999;
+}
+div#social {
+  position: fixed;
+  padding: 10px 20px 0 0;
+  margin-left: 700px;
+  z-index: 9999;
+  width: 300px;
+}
+table.social_count {
+  float: left;
+  padding: 0 10px;
+}
+table.social_count tr td {
+  border: 0;
+  padding: 0 2px;
+  margin: 0;
+  text-align: center;
+  color: white;
+  font-size: 1.6em;
+}
+div#top_spacer {
+  height: 45px;
+  display: block;
+}
+
+div#projects_carousel {
+  float: left;
+}
+div#projects_carousel ul li.project_thumb {
+  margin: 0 5px 0 0;
+  background-color: transparent;
+  background-attachment: scroll;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  width: 201px;
+  height: 127px;
+}
+img.project_arrow {
+  float: left;
+  padding: 20px 5px 0 0;
+  display: block;
+  cursor: pointer;
+}
+
+div#projects_container {
+  background: transparent url('../images/project_main.png') no-repeat scroll 0 0;
+  width: 920px;
+  height: 425px;
+}
+div#projects_container div#project_large_image {
+  height: 370px;
+  width: 625px;
+  margin: 22px;
+  border-right: 1px dashed #999;
+  float: left;
+}
+div#projects_container div#project_large_image div.empty_text {
+  font-size: 3em;
+  color: #EEE;
+  font-weight: bold;
+  margin: 25% 0;
+  text-align: center;
+}
+div#projects_container div#project_description_container {
+  float: left;
+  width: 220px;
+  font-size: 1.2em;
+  margin: 35px 0 25px;
+  padding: 0;
+  height: 355px;
+  overflow: hidden;
+}
+div#projects_container div#project_description_container div#project_name {
+  font-weight: bold;
+}
+div#projects_container div#project_description_container div#project_created_on {
+  color: #AAA;
+  padding-bottom: 10px;
+}

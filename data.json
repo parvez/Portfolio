@@ -1,0 +1,79 @@
+{
+  "1": {
+    "large_image": "/custom/images/projects/website/large_microplace.png",
+    "thumb_image": "/custom/images/projects/website/thumb_microplace.png",
+    "name": "MicroPlace Inc.",
+    "created_on": " May  1, 2010",
+    "description": " Built on Ruby on Rails, MicroPlace website is one ofmy favorite projects I have worked on. Being part of an Agile Team,love coding in RoR and also crafting UI from Mockups aka Photoshop.<br /><br />MicroPlace's mission is to help alleviate global poverty by enabling everyday people to make investments in the world's working poor.<br /><br /><a href='https://www.microplace.com/' target='_blank'>www.microplace.com</a>"
+  },
+  "2": {
+    "large_image": "/custom/images/projects/website/large_docause.png",
+    "thumb_image": "/custom/images/projects/website/thumb_docause.png",
+    "name": "DoCause",
+    "created_on": "Mar  1, 2010",
+    "description": "DoCause is an award winning business concept that serves individual supporters, non-profit organizations and socially responsible corporations.<br /><br />Involved in complete designing of User Interface of the website including XHTMLization.<br /><br /><a href='http://www.docause.org/' target='_blank'>www.docause.org</a> (TBL)"
+  },
+  "3": {
+    "large_image": "/custom/images/projects/website/large_axtrom.png",
+    "thumb_image": "/custom/images/projects/website/thumb_axtrom.png",
+    "name": "Axtrom",
+    "created_on": "Jun  1, 2006",
+    "description": "Axtrom is a vision that came to life in 2006 by a team of talented designers and professionals in the IT industry.<br /><br />Enjoyed being the lead developer and designer of the portal showcasing the Axtrom products.<br /><br /><a href='http://www.axtrom.com/' target='_blank'>www.axtrom.com</a>"
+  },
+  "4": {
+    "large_image": "/custom/images/projects/website/large_gigabyte_persian.png",
+    "thumb_image": "/custom/images/projects/website/thumb_gigabyte_persian.png",
+    "name": "Gigabyte Persian",
+    "created_on": "Mar  1, 2006",
+    "description": "Creation of localized version of the leading IT manufacturing company, Gigabyte Technologies.<br /><br />Gigabyte leads the industry with the highest quality and most innovative motherboard design.<br /><br /><a href='http://www.gigabyte.ir/' target='_blank'>www.gigabyte.ir</a>"
+  },
+  "5": {
+    "large_image": "/custom/images/projects/website/large_interdev.png",
+    "thumb_image": "/custom/images/projects/website/thumb_interdev.png",
+    "name": "Interdev",
+    "created_on": "Jan  1, 2006",
+    "description": "Designing of portal for IT Distributing Company.<br /><br /><a href='http://www.interdev.ae/' target='_blank'>www.interdev.ae</a> (Closed)"
+  },
+  "6": {
+    "large_image": "/custom/images/projects/website/large_twinhan_me.png",
+    "thumb_image": "/custom/images/projects/website/thumb_twinhan_me.png",
+    "name": "Twinhan Middle East",
+    "created_on": "Nov  1, 2005",
+    "description": "Creation of localized version of the leading IT manufacturing company, Twinhan Technologies.<br /><br />TwinHan Technology is a leading provider of complete Digital TV solution.<br /><br /><a href='http://www.twinhan.ae/' target='_blank'>www.twinhan.ae</a> (Closed)"
+  },
+  "7": {
+    "large_image": "/custom/images/projects/website/large_adlibadli.png",
+    "thumb_image": "/custom/images/projects/website/thumb_adlibadli.png",
+    "name": "Adlibadli",
+    "created_on": "Jan  1, 2005",
+    "description": "Portal with the concept of barter, designed and developed as part of personal project.<br /><br /><a href='http://www.adlibadli.com/' target='_blank'>www.adlibadli.com</a> (Closed)"
+  },
+  "8": {
+    "large_image": "/custom/images/projects/website/large_gse.png",
+    "thumb_image": "/custom/images/projects/website/thumb_gse.png",
+    "name": "Golden Systems",
+    "created_on": "Dec  1, 2004",
+    "description": "Designing and developing of portal for IT Distributing Company.<br /><br /><a href='http://www.gse.ae/' target='_blank'>www.gse.ae</a>"
+  },
+  "9": {
+    "large_image": "/custom/images/projects/website/large_gse_crm.png",
+    "thumb_image": "/custom/images/projects/website/thumb_gse_crm.png",
+    "name": "GSE CRM",
+    "created_on": "Sep  1, 2004",
+    "description": "Designing and developing of CRM portal for IT Distributing Company.<br /><br /><a href='http://crm.gse.ae/' target='_blank'>crm.gse.ae</a> (Protected)"
+  },
+  "10": {
+    "large_image": "/custom/images/projects/website/large_gse_intranet.png",
+    "thumb_image": "/custom/images/projects/website/thumb_gse_intranet.png",
+    "name": "GSE Intranet",
+    "created_on": "Jun  1, 2004",
+    "description": "Designing and developing of Intranet for IT Distributing Company.<br /><br /><a href='http://intranet.gse.ae/' target='_blank'>intranet.gse.ae</a> (Protected)"
+  },
+  "11": {
+    "large_image": "/custom/images/projects/website/large_gse_partner.png",
+    "thumb_image": "/custom/images/projects/website/thumb_gse_partner.png",
+    "name": "GSE Partner Program",
+    "created_on": "Mar  1, 2004",
+    "description": "Designing and developing of Partner Program Portal for IT Distributing Company.<br /><br /><a href='http://gpp.gse.ae/' target='_blank'>gpp.gse.ae</a>"
+  }
+}
